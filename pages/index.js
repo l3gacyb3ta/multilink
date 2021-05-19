@@ -15,7 +15,7 @@ export default function Home({ posts }) {
   return (
     <>
       <Head>
-        <script async defer data-website-id="2cf2cb62-423a-422e-b7a3-29d12a3b782c" src="https://umami-two-kappa.vercel.app/umami.js"></script>
+        <script async defer data-website-id="7f52a2a6-d723-4ba0-b7a1-a8312e427ce2" src="https://umami-two-kappa.vercel.app/umami.js"></script>
       </Head>
 
       <Box as="header" sx={{ bg: 'sheet', color: 'text' }}>
