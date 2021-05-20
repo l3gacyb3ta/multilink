@@ -15,7 +15,7 @@ export default function Home({ posts }) {
   return (
     <>
       <Head>
-        <script async defer data-website-id="ae6b18bf-4b2c-4435-ab6d-cf021a78645b" src="https://data.lilvibeyloser.tk/umami.js"></script>
+        <script async defer data-website-id="7f52a2a6-d723-4ba0-b7a1-a8312e427ce2" src="https://data.lilvibeyloser.tk/umami.js"></script>
       </Head>
 
       <Box as="header" sx={{ bg: 'sheet', color: 'text' }}>
