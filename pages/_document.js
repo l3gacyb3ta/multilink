@@ -10,7 +10,9 @@ export default class extends Document {
   render() {
     return (
       <Html lang="en-US">
-        <Head />
+        <Head>
+          <script async defer data-website-id="7f52a2a6-d723-4ba0-b7a1-a8312e427ce2" src="https://data.lilvibeyloser.tk/umami.js"></script>
+        </ Head>
         <body>
           <InitializeColorMode />
           <Main />
